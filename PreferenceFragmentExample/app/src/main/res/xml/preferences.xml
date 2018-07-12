@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="color_setting"
+        android:title="Color Setting"
+        android:summary="Set Forecolor for the text"
+        android:entries="@array/ColorListText"
+        android:entryValues="@array/ColorListValue"
+        android:persistent="true"
+        android:defaultValue="#000000"/>
+</PreferenceScreen>
