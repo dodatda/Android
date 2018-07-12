@@ -1,2 +1,0 @@
-# Android
-Some Android Project
