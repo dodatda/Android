@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roboletric Unit Test</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="CommandAdd">Add</string>
+    <string name="CommandMinus">Minus</string>
+</resources>
